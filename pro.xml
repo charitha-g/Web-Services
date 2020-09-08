@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product><emp product_id="1"><product_name>castwheels</product_name><cost>20000</cost><availability>Y</availability></emp><emp product_id="2"><product_name>axle</product_name><cost>100000</cost><availability>N</availability></emp><emp product_id="3"><product_name>abd</product_name><cost>1000</cost><availability>Y</availability></emp></product>
